@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christ</h1>
+<h1 align="center">Christ Mbombo Mokonda</h1>
 <h3 align="center">Ingénieur web full-stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christmknd&label=Profile%20views&color=0e75b6&style=flat" alt="christmknd" /> </p>
