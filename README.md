@@ -1,9 +1,9 @@
 <h1 align="center">Christ Mbombo Mokonda</h1>
 
-<h2 align="center">Développeur Web Fullstack</h2>
+<h2 align="center">Développeur Web Fullstack | Spring, React </h2>
 
 
-👨‍💻 Portofolio  [https://app-nu-one.vercel.app/](https://app-nu-one.vercel.app/)
+👨‍💻 Portofolio : [https://app-nu-one.vercel.app/](https://app-nu-one.vercel.app/)
 
 
 ## 🌐 Socials:
