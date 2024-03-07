@@ -3,7 +3,7 @@
 <h2 align="center">Développeur Web Fullstack</h2>
 
 
-- 👨‍💻 Portofolio  [https://app-nu-one.vercel.app/](https://app-nu-one.vercel.app/)
+👨‍💻 Portofolio  [https://app-nu-one.vercel.app/](https://app-nu-one.vercel.app/)
 
 
 ## 🌐 Socials:
@@ -16,10 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=christmknd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christmknd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=christmknd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=christmknd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
