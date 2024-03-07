@@ -19,6 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christmknd&show_icons=true&locale=en" alt="christmknd" /></p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@christmknd" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christmknd&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christmknd&" alt="christmknd" /></p>
